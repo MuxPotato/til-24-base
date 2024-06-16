@@ -1,4 +1,4 @@
-
+# Note: Code uses a finetuned Whisper Model which is too big to be uploaded to github
 import torch
 from transformers import WhisperForConditionalGeneration, WhisperProcessor
 import numpy as np
